@@ -27,4 +27,8 @@ Your First Line Of Care.
 # Files
 
 The weight file for the llama-2-7b is available [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin). Add this file to the root directory after cloning the repository.
+
 # Screen shots
+![Screenshot](https://user-images.githubusercontent.com/77972976/275280954-1df2a07a-c976-469c-9e22-1ba54604f4c9.png)
+
+![Screenshot](https://user-images.githubusercontent.com/77972976/275281046-c3490306-8640-409f-bfa8-fe9667a829a7.png)
