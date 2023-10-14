@@ -32,3 +32,12 @@ The weight file for the llama-2-7b is available [here](https://huggingface.co/Th
 ![Screenshot](https://user-images.githubusercontent.com/77972976/275280954-1df2a07a-c976-469c-9e22-1ba54604f4c9.png)
 
 ![Screenshot](https://user-images.githubusercontent.com/77972976/275281046-c3490306-8640-409f-bfa8-fe9667a829a7.png)
+
+# Team Mates
+
+- This project was a submission for the HackZ hackathon conducted by Osmania Business Technology Incubator and we won the first prize for the problem statement of **Pediatric Disease Predictor and First Responder**
+
+- [Srikhar Shashi Dasoju](https://github.com/srikharshashi)
+- [Aman Reddy Bannuru]()
+- [Nanda Kishore Gorenka]()
+- [Sushanth Machikanti]()
