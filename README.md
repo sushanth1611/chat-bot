@@ -39,5 +39,5 @@ The weight file for the llama-2-7b is available [here](https://huggingface.co/Th
 
 - [Srikhar Shashi Dasoju](https://github.com/srikharshashi)
 - [Aman Reddy Bannuru]()
-- [Nanda Kishore Gorenka]()
+- [Nanda Kishore Gorenka](https://github.com/Nandakishore19)
 - [Sushanth Machikanti]()
